@@ -1,0 +1,6 @@
+Gracias por leer las siguientes instrucciones
+
+Antes de ejecutar el programa debe crear una BASE DE DATOS con el nombre "adsi56" y importar el las tablas
+y registro que se encuentran en el archivo "adsi56.sql".
+
+Disfrute el software
